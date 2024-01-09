@@ -11,5 +11,8 @@ Luego deberá leer las instrucciones de cada módulo y realizar lo que se le pid
 
 ## Integrantes
 
-- Integrante 1
-- Integrante 2
+
+- Alvaro Sanchez
+- Cesar Garcia
+- Fabrizio Vargas
+- Luis Zegarra
