@@ -1,0 +1,17 @@
+.d1{
+    padding: 32px;
+    margin: 12px;
+    border: 3px blue solid;
+    background-color: pink ;
+}
+.d2{
+    margin-bottom: 48px;
+    border: 3px rgb(156, 27, 156) solid;
+    background-color: lightblue;
+}
+.d3{
+    padding: 32px;
+    margin-left: 500px;
+    border: 3px rgb(153, 53, 53) solid;
+    background-color: palegoldenrod;
+}
