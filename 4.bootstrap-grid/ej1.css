@@ -1,0 +1,61 @@
+:root{
+    --marron: #66401A;
+}
+
+.base {
+    font-family: 'Arial', sans-serif;
+    background-color: #EFE1C6;
+}
+
+h1,h2{
+    color: var(--marron);
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+
+span.cursive{
+    text-decoration: underline;
+    font-size: x-large;
+    font-style: italic ;
+}
+
+.etiqueta{
+    font-weight: bolder;
+}
+
+.input{
+    background-color:#EFE1C6 ;
+}
+
+.central{
+    width: 700px;
+    border-bottom: #66401A 10px solid;
+    background-color: white !important;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td,th{
+    padding: 10px;
+}
+
+.bordes{
+    border: solid 1px black;
+}
+
+.proyectos{
+    border: solid 1px var(--marron);
+    width: 200px;
+    background-color: #EFE1C6;
+    padding: 10px;
+}
+
+input{
+    background-color: #EFE1C6;
+}

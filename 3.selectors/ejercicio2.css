@@ -1,0 +1,21 @@
+#top{
+    background-color: orange;
+}
+
+#contenido {
+    padding: 10px;
+}
+
+.borde-negro{
+    border: solid 10px black ;
+}
+
+.img1{
+    width: 100px;
+}
+
+.imgs{
+    width: 300px;
+}
+
+
