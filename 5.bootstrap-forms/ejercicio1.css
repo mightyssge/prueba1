@@ -1,0 +1,13 @@
+.btn-ajuste{
+    text-align: center;
+    width: auto ;
+}
+
+.registrarse{
+    color: rgb(0, 89, 255);
+    border: white solid 1px;
+}
+
+button:hover{
+    color:black;
+}
