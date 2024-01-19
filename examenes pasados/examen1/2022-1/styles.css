@@ -1,3 +1,6 @@
+
+/*index*/
+
 .caja_login{
     padding: 10px;
     border: rgb(224, 224, 224) solid 1px;
@@ -7,30 +10,14 @@
     padding: 20px;
 }
 
-.login_register{
-    padding-left: 40px ;
-    padding-right: 40px;
+
+.login{
+    width: 180px;
+    margin-right: 20px;
 }
 
-.margin-10{
-    margin-left: 30px;
+.registrarse{
+    width: 180px;
 }
 
-.flexing{
-    display: flex;
-}
-
-.button1, .button2 {
-    width: 150px;
-    height: 30px;
-    text-align: center;
-    border: 1px solid #6b6b6b;
-    color: #000000;
-    padding: 10px;
-    border-radius: 8px;
-    display: flex;
-    margin: 0 10px;
-    text-decoration: none;
-    justify-content: center;
-    align-items: center;
-  }
+/*index*/
